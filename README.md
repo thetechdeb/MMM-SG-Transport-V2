@@ -36,7 +36,7 @@ A working installation of [MagicMirror<sup>2</sup>](https://github.com/MichMich/
 
 ## Installation
 1. Navigate into your MagicMirror's `modules` folder.
-2. Execute `git clone https://github.com/mosesyong/MMM-SG-Transport-V2`.
+2. Execute `git clone https://github.com/thetechdeb/MMM-SG-Transport-V2`.
 3. Execute `cd MMM-SG-Transport-V2`.
 4. Execute `npm install`.
 5. Edit the `config.js`.
